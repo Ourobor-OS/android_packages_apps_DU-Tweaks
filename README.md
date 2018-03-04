@@ -1,10 +1,11 @@
-Dirty Tweaks
+OuroborOS Tweaks
 ==============
 
 A flexible, easy to use, all in one tweaks app for AOSP!
 
 ## License
 
+    Copyright (C) 2017 OuroborOS
     Copyright (C) 2017 The Dirty Unicorns Project
 
     Licensed under the Apache License, Version 2.0 (the "License");
